@@ -10,11 +10,11 @@
 - [ ] Utilize box-shadow CSS Properties
 
 ***
-## *TODO*
-- [ ] Recreate the look of the "Search Button"
+## *TODO:*
+- Recreate the look of the "Search Button"
 
-- [ ] Recreate the look of the "+" button, border-radius: 50%; may be useful for making a circle
+- Recreate the look of the "+" button, border-radius: 50%; may be useful for making a circle
 
-- [ ] Recreate the look of the "Create Account" button
+- Recreate the look of the "Create Account" button
 
-- [ ] Apply box-shadow to the "Create Account" button
+- Apply box-shadow to the "Create Account" button
