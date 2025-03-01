@@ -1,4 +1,4 @@
-# **ButtonUp**
+# **Button Up**
 <!-- can have readme preview open as well to see how it will appear -->
 # *Concept*
 <!-- ## this is a sub heading -->
